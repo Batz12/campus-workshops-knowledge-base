@@ -1,4 +1,4 @@
-# campus-workshops-knowledge-base
+# campus-workshops-knowledge-base by Aneesh Acharya
 
 Knowledge Base for Campus Workshops
 
